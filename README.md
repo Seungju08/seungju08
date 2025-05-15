@@ -1,7 +1,7 @@
 <div style="text-align: left;"> 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> I am a GBSW 4th mobile app and game developer </div>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> mobile app development world skills </div>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> world skills mobile app development </div>
 </div>
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
